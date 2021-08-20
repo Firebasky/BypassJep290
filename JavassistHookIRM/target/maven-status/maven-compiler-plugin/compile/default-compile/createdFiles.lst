@@ -1,0 +1,12 @@
+com\firebasky\rmi\client\Client.class
+com\firebasky\javassist\JavaApp.class
+com\firebasky\utils\Reflections.class
+com\firebasky\javassist\RemoteObjectInvocationHandlerHookVisitor$RemoteObjectInvocationHandlerHookVisitorAdapter.class
+com\firebasky\rmi\server\Server.class
+com\firebasky\utils\Urldns$SilentURLStreamHandler.class
+com\firebasky\rmi\server\Test.class
+com\firebasky\utils\CC6.class
+com\firebasky\utils\Urldns.class
+com\firebasky\rmi\server\TestImpl.class
+com\firebasky\javassist\ClassTransFormer.class
+com\firebasky\javassist\RemoteObjectInvocationHandlerHookVisitor.class
